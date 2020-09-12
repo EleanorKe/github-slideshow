@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Anything you can imagine is real" Salvador Dali
 Use the left arrow to go back!
